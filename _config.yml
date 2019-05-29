@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+
+title: Tomachi Site GitHub Version
+description: Powered by GitHub
+show_downloads: false
