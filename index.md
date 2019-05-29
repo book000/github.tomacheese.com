@@ -13,5 +13,5 @@ DNSでgithubサブドメイン([github.tomacheese.com](https://github.tomacheese
 
 ----
 
-Twitter: [@book000](https://twitter.com/book000) など
+Twitter: [@book000](https://twitter.com/book000) など  
 Discord: tomachi#0310 (2018/05からNitro)
