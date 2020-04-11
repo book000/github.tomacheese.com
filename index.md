@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% site.pages %}
+
 [Tomachi Site MainPage](https://tomacheese.com)
 
 このサイトは、GitHubでホストしている、[Slateテーマ](https://github.com/pages-themes/slate)を使用したWebサイトです。  
