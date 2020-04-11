@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% site.pages %}
+{{ site.pages }}
 
 [Tomachi Site MainPage](https://tomacheese.com)
 
